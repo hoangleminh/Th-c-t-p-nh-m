@@ -1,0 +1,12 @@
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.LOGIN.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.Properties.Resources.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.csproj.GenerateResource.Cache
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\bin\Debug\QUANLYNHANSU.exe
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\bin\Debug\QUANLYNHANSU.pdb
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.exe
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.pdb
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.csprojResolveAssemblyReference.cache
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.MENU.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.QUANLY2.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\bin\Debug\QUANLYNHANSU.exe.config
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\QUANLYNHANSU\QUANLYNHANSU\obj\x86\Debug\QUANLYNHANSU.THONGTIN.resources
